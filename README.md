@@ -1,4 +1,4 @@
-# Apple iPad template for touch control of Yamaha Tio1608
+# Apple iPad template for head amp control of Yamaha Tio1608
 # Designed with Yamaha ProVisionaire Control Ver.3.11.0
 # https://europe.yamaha.com/en/products/proaudio/software/provisionaire/downloads.html
 # .pvcpj 
